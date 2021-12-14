@@ -4,7 +4,7 @@
 #
 Name     : uncertainpy
 Version  : 1.2.3
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/61/20/ccf36800a17b545e48bcd0845aebea3f46936091a90f38f46e462255e976/uncertainpy-1.2.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/61/20/ccf36800a17b545e48bcd0845aebea3f46936091a90f38f46e462255e976/uncertainpy-1.2.3.tar.gz
 Summary  : A python toolbox for uncertainty quantification and sensitivity analysis tailored towards neuroscience models.
